@@ -1,0 +1,53 @@
+html {  
+    height: 100vh;  
+    display: flex;  
+    align-items: center;  
+    justify-content: center;  
+    background-color: #E3B448;
+    font-family: 'Cookie'; 
+    font-family: sans-serif; 
+    color: #3A6B35;
+    font-size: 25px;
+  }
+  article{
+          text-align:center;
+          font-weight: bold; 
+          width: 210px;     
+          color:solid black;
+  }
+          .title{
+          margin-bottom: 10px;
+          
+          text-align: center;
+          font-weight: bold; 
+          padding :10px;
+          color:solid black;
+          border: solid black 1px;
+          background-color: #CBD18F;
+          }
+  
+          input[type="button"]
+          {
+          background-color: #CBD18F;
+          color: #3A6B35;
+          border: solid black 1px;
+          width:105px;
+          height: 65px;
+          font-size: larger;
+          }
+       
+         input:hover{
+                color: black;
+                cursor: pointer;
+          }
+
+          input[type="text"] 
+          {
+          font-size: larger;
+          background-color:#CBD18F;
+          border: solid black 1px;
+          width: 320px;
+          height: 55px;
+         
+          }
+      
